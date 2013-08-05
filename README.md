@@ -1,3 +1,5 @@
+# Project has been moved to [L8D/delvs](https://github.com/L8D/delvs) for naming and forking purposes.
+
 Delvs
 =====
 
